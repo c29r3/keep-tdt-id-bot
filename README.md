@@ -12,4 +12,4 @@ Enter your bot_token and url of keep-indexer API in the configuration file
 
 ## How it works
 You choose the size of the lot and get a random unspent TDT_ID  
-![alt text](https://github.com/c29r3/keep-tdt-id-bot/blob/master/example.png)  
+![alt text](https://miro.medium.com/max/692/1*OH8V1bIImki-heR38zubtg.png)  
